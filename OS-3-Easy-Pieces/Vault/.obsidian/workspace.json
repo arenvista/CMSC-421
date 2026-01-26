@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "e4e6f7ad6fc96cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bdaf413fd607ee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a451d8d52dc50cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1767072991-BLRG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1767072991-BLRG"
+            }
+          },
+          {
+            "id": "b91232ae1091908b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "443aa271675f677b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2e0953cc840e841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a47338426b60fb70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a1e4de78a38f365c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af1a4c729eb5892b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "5739d0a374dd45b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "150df6210b23b5e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "811946a8646d481f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 02"
+            }
+          },
+          {
+            "id": "44b93330e2c7b1bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 02"
+            }
+          },
+          {
+            "id": "db9ce5afb97e8ceb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37ae69a616dbf0d1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d958dc613f92e34c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a451d8d52dc50cf4",
+  "lastOpenFiles": [
+    "1767072991-BLRG.md~",
+    "assets/imgs/proc_state.png",
+    "assets/imgs/proc_api.png",
+    "1766973264-EXXS.md",
+    "1766973264-EXXS.md~",
+    "1767053195-BYCC.md~",
+    "1767053195-BYCC.md",
+    "1767051933-CKKJ.md~",
+    "1767051933-CKKJ.md",
+    "1766975367-NRVZ.md~",
+    "[Triangle Inequality](1766975367-NRVZ..md",
+    "assets/imgs/triange_inequality.png",
+    "assets/imgs",
+    "assets",
+    "1766975367-NRVZ.md",
+    "Main.md~",
+    "1766975074-QDMH.md",
+    "1766975071-QLXW.md",
+    "1766975069-UKUO.md",
+    "1766975066-LOZX.md",
+    "1766975054-CVWC.md",
+    "1766975049-KVKB.md",
+    "1766975040-MGBZ.md",
+    "1766975032-ONRK.md",
+    "1766975024-OCSX.md",
+    "Main.md",
+    "Master.md",
+    "1766974687-YHMG.md",
+    "1766974687-YHMG.md~",
+    "1766962952-MAQA.md",
+    "4913",
+    "Chapter_2.md",
+    "Untitled.md",
+    "1766965420-ESMM.md",
+    "1766969870-SPDG.md",
+    "1766969917-MJUI.md",
+    "1766969842-implications.md",
+    "1766969835-implications.md",
+    "Untitled.canvas"
+  ]
+}
