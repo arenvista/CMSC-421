@@ -1,17 +1,17 @@
 #!/bin/bash
 
 # --- Configuration ---
-RAM="4G"
-CORES="2"
-IMG_NAME=linux_vm
-
-#Creating Disk Image
-./create_img.sh "$IMG_NAME"
+RAM="8G"
+CORES="12"
 
 # 1. Select ISO using fzf
 # find . -maxdepth 1 -name "*.iso" : Looks for .iso files in current folder only
 # fzf --prompt...                  : Opens the selection menu
+echo "Scanning for .iso files..."
 ISO=$(find . -maxdepth 1 -name "*.iso" | fzf --prompt="Select ISO > ")
+echo "Scanning for .qcow2 files..."
+# We use || true to prevent the script from exiting if find returns nothing
+DISK_NAME=$(find . -maxdepth 1 -name "*.qcow2" 2>/dev/null | fzf --prompt="Select Disk > ")
 
 # 2. Check if user cancelled or no ISO was found
 if [[ -z "$ISO" ]]; then

@@ -40,11 +40,11 @@ RAM=${INPUT_RAM:-$DEFAULT_RAM}
 # --- 4. Display Status Output ---
 echo ""
 echo "------------------------------------------"
-echo "🚀 Launching Virtual Machine..."
-echo "📂 Disk:  $DISK_NAME"
-echo "🧠 RAM:   $RAM"
-echo "🔢 Cores: $CORES"
-echo "🖥️  Video: virtio with cursor enabled"
+echo "Launching Virtual Machine..."
+echo "Disk:  $DISK_NAME"
+echo "RAM:   $RAM"
+echo "Cores: $CORES"
+echo "Video: virtio with cursor enabled"
 echo "------------------------------------------"
 
 

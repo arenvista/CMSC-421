@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 while true; do
-    read -p "Please enter an integer: " IMG_SIZE
+    read -p "Please enter an file size (GB): " IMG_SIZE
 
     # Check if the input is an integer using Regex
     # ^-?   : Optional negative sign at the start
