@@ -22,11 +22,11 @@ fi
 # --- 3. Resource Allocation Prompts ---
 clear
 echo "------------------------------------------"
-echo "🔧 VM Configuration"
+echo "   VM Configuration"
 echo "------------------------------------------"
 echo "Host Resources Available:"
-echo "   🧠 System RAM:   $HOST_RAM"
-echo "   🔢 System Cores: $HOST_CORES"
+echo "   ystem RAM:   $HOST_RAM"
+echo "   ystem Cores: $HOST_CORES"
 echo "------------------------------------------"
 
 # Ask for Cores (Default to 2 if input is empty)
