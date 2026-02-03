@@ -55,7 +55,7 @@ qemu-system-x86_64 \
   -smp $CORES \
   -drive file="$DISK_NAME",format=qcow2 \
   -vga virtio \
-  -nic user,model=virtio-net-pci \
+  -nic user,model=virtio-net-pci,hostfwd=tcp::2222-:22 \
   -display gtk,show-cursor=on \
   -usb -device usb-tablet
 
