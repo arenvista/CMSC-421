@@ -7,7 +7,7 @@
 char* getCommand();
 
 enum command {
-    EXEC,// [x] 
+    EXEC,   // [x] 
     ECHO,   // [x]
     TYPE,   // [x]
     EXIT,   // [x] Bonus Commands 
